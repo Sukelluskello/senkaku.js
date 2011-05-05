@@ -1,3 +1,5 @@
+****  THIS IS A PROPOSAL DESIGN --- PRE-ALPHA CODE --- NOTHING IS IMPLEMENTED YET ****
+
 Sencha Touch is a powerful library to create iOS and Android apps in pure javascript.  Angular.js is an extensible HTML compiler.  
 
 Sencha Touch allows you to make kick-ass mobile apps with very little code.  Angular.js makes your HTML DOM elements and UI controls connected and interactive with almost zero code.  Together the two allow you to build powerful mobile apps without knowing JavaScript. senkaku.js uses angular.js to compile standard tags into Sencha Touch compatible JS code. This way you can tell your designer to create mobile interfaces using HTML-like special tags rather than asking them to learn JavaScript.
